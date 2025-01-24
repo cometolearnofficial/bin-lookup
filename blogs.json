@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Test Blog",
+    "content": "<p>This is just a test blog for our website and its very important to have this feature in the absence approval.</p>",
+    "tags": [
+      "test",
+      "upload"
+    ],
+    "thumbnail": "/uploads/1737671726725_clothing Logo.jpg",
+    "images": [],
+    "date": "2025-01-23T22:35:26.727Z"
+  },
+  {
+    "id": "yEaVAZzGVwRLuI3uFnHFh",
+    "title": "Test 2 with id Fixed",
+    "content": "<h1>Test 2 with ID Fixed</h1><p>This is Test </p><h2>Header 2 Test</h2><p>working ok <a href=\"https://binlookupfree.com\" rel=\"noopener noreferrer\" target=\"_blank\"><u>and</u></a> <strong>fine </strong></p><ul><li><strong>hope</strong></li><li><strong>nope</strong></li><li><strong>lope</strong></li></ul><ol><li><strong>this</strong></li><li><strong>is </strong></li><li><strong>working</strong></li><li><br></li></ol>",
+    "tags": [
+      "test"
+    ],
+    "thumbnail": "/uploads/1737672960603_closet profile.png",
+    "images": [],
+    "date": "2025-01-23T22:56:00.607Z"
+  }
+]
