@@ -1,5 +1,6 @@
 import BINSearchTool from "../components/BINSearchTool"
 import Link from "next/link"
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function Home() {
   return (
